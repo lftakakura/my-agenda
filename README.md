@@ -6,4 +6,5 @@ Simple Swift APP to fetch your contacts list, display it in a different view and
 
 ## Installation
 
-TODO
+- Import the xcode project into xcode (double-click .xcodeproject file)
+- Run the app on the simulator
